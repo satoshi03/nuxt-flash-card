@@ -1,4 +1,4 @@
-# nuxt-frash-card
+# nuxt-flash-card
 
 > Browser based flash card app for learning something via Firebase and NuxtJS.
 
