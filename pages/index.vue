@@ -73,13 +73,11 @@ export default {
         edit: false,
       })
     })
-    console.log(this.cards)
   },
   computed: mapGetters(['cards']),
   methods: {
     ...mapActions(['init', 'addCard', 'editCard']),
     toggleCard (card) {
-      console.log(card)
       if (card.edit) {
         return
       }
