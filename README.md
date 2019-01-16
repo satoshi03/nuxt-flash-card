@@ -1,6 +1,6 @@
 # nuxt-frash-card
 
-> Browser based frash card app for learning something via Firebase and NuxtJS.
+> Browser based flash card app for learning something via Firebase and NuxtJS.
 
 ![demo](https://media.giphy.com/media/9RXT0znTaEj2Lv05Dq/giphy.gif)
 
